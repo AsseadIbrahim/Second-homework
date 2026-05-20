@@ -1,0 +1,11 @@
+C:\Users\Dell\TodoSolution\DataAccess\bin\Debug\net10.0\DataAccess.deps.json
+C:\Users\Dell\TodoSolution\DataAccess\bin\Debug\net10.0\DataAccess.dll
+C:\Users\Dell\TodoSolution\DataAccess\bin\Debug\net10.0\DataAccess.pdb
+C:\Users\Dell\TodoSolution\DataAccess\obj\Debug\net10.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\TodoSolution\DataAccess\obj\Debug\net10.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Dell\TodoSolution\DataAccess\obj\Debug\net10.0\DataAccess.AssemblyInfo.cs
+C:\Users\Dell\TodoSolution\DataAccess\obj\Debug\net10.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Dell\TodoSolution\DataAccess\obj\Debug\net10.0\DataAccess.dll
+C:\Users\Dell\TodoSolution\DataAccess\obj\Debug\net10.0\refint\DataAccess.dll
+C:\Users\Dell\TodoSolution\DataAccess\obj\Debug\net10.0\DataAccess.pdb
+C:\Users\Dell\TodoSolution\DataAccess\obj\Debug\net10.0\ref\DataAccess.dll
