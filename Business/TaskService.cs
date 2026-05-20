@@ -35,10 +35,12 @@ var tasks = repository.GetAll();
                 task.IsComplete = true; 
         } 
  
-        // TODO:   المهمة تنفيذ دالة حذف 
-        public void DeleteTask(int id) 
-        { 
-            // TODO: استدعاء دالة الحذف في طبقة DataAccess 
-        } 
+        
+        // TODO: تنفيذ دالة حذف المهمة
+public void DeleteTask(int id)
+{
+    // TODO: استدعاء دالة الحذف في طبقة DataAccess
+    repository.Delete(id);
+}
     } 
 } 
